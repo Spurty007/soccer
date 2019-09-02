@@ -24,8 +24,8 @@ All teams travel
 
 Age Group                      | Players on field | Ball |Goal Keeper   | Time per 1/2 | Notes
  ----------------------------: | :--------------: | :--: | :----------: | :----------: | :-------
-[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added
-[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals
+[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added + Travel
+[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals + Travel
 [Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | 35mins       | Full size field and goals + Travel
 [Grade 9/10](#Grade910)        | 10 + Keeper      | #5   | &#9745;      | 40mins       | Full size field and goals + Travel
 [Grade 11/12](#Grade1112)      | 10 + Keeper      | #5   | &#9745;      | 45mins       | Full size field and goals + Travel
@@ -59,6 +59,7 @@ More details about each age group.
 Players must be enrolled in 1st Grade.
  - 3v3
  - Size 3 ball
+ - Time of Play: Four 10 Minute quarters with 2 minute breaks
  - No Goal keepers (no role assignment)
  - Expect big double digit score lines (don't keep count)
  - Weekly training with a coach encouraged
@@ -74,7 +75,7 @@ Players must be enrolled in 1st Grade.
  Players must be enrolled in 2nd Grade.
  - 4v4
  - Size 3 ball
- - Time of Play: Two 25 Minute Halves with 5 minute halftime
+ - Time of Play: Four 10 Minute quarters with 2 minute breaks
  - No Goal keepers (no role assignment)
  - Expect big double digit score lines (don't keep count)
  - Games should end up with everyone scoring multiple goals
@@ -93,7 +94,7 @@ Players must be enrolled in 1st Grade.
  - 7v7
  - Larger field
  - Size 4 ball
- - Time of Play: Two 30 Minute Halves with 5 minute halftime
+ - Time of Play: Two 25 Minute Halves with 5 minute halftime
  - Weekly training with a coach encouraged
  - Keeper role introduced
  - Fall in town - Scores are not reported
@@ -132,7 +133,7 @@ Players must be enrolled in 11th or 12th Grade.
  - U18
  - 11v11
  - Size 5 ball
- - Time of Play: Two 40 Minute Halves with 5 minute halftime
+ - Time of Play: Two 45 Minute Halves with 5 minute halftime
  - Full sized fields used
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
