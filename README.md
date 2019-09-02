@@ -9,13 +9,13 @@ By the grade - **at a glance**
 ### In Fall
 Age Group                      | Players on field | Ball size      |Goal Keeper   | Time per 1/2 | Notes
  ----------------------------: | :--------------: | :------------: | :----------: | :----------: | :-------
-[PreK](#PreK)                  | ALL              | 3              | [ ]          | NA           | Must be 4 years old by September 1st
-[Kindergarten](#Kindergarten)  | ALL              | 3              | [ ]          | NA           | Must be 5 years old by September 1st
-[Grade 1](#Grade1)             | 3                | 3              | [ ]          | 20           | No role assignment - rotate posistions
-[Grade 2](#Grade2)             | 4                | 3              | [ ]          | 20           | No role assignment - rotate posistions
-[Grade 3/4](#Grade34)          | 7                | 4              | [x]          | 25           | Keeper role added - give everyone a chance
-[Grade 5/6](#Grade56)          | 9                | 4              | [x]          | 30           | Roles for Defense, Attack added
-[Grade 7/8](#Grade78)          | 11               | 5              | [x]          | 35           | All roles + travel
+[PreK](#PreK)                  | ALL              | 3              | &#9744;          | NA           | Must be 4 years old by September 1st
+[Kindergarten](#Kindergarten)  | ALL              | 3              | &#9744;          | NA           | Must be 5 years old by September 1st
+[Grade 1](#Grade1)             | 3                | 3              | &#9744;          | 20           | No role assignment - rotate posistions
+[Grade 2](#Grade2)             | 4                | 3              | &#9744;          | 20           | No role assignment - rotate posistions
+[Grade 3/4](#Grade34)          | 7                | 4              | &#9745;          | 25           | Keeper role added - give everyone a chance
+[Grade 5/6](#Grade56)          | 9                | 4              | &#9745;          | 30           | Roles for Defense, Attack added
+[Grade 7/8](#Grade78)          | 11               | 5              | &#9745;          | 35           | All roles + travel
 
 
 ### In Spring
@@ -24,11 +24,11 @@ All teams travel
 
 Age Group                      | Players on field | Ball size      |Goal Keeper   | Time per 1/2 | Notes
  ----------------------------: | :--------------: | :------------: | :----------: | :----------: | :-------
-[Grade 3/4](#Grade34)          | 7                | 4              | [x]          | 25           | Keeper role - pick best keeper
-[Grade 5/6](#Grade56)          | 9                | 4              | [x]          | 30           | Roles for Defense, Attack added
-[Grade 7/8](#Grade78)          | 11               | 5              | [x]          | 35           | All roles (Defense, Midfield, Forwards & Keeper)
-[Grade 9/10](#Grade910)        | 11               | 5              | [x]          | 40           | All roles (Defense, Midfield, Forwards & Keeper)
-[Grade 11/12](#Grade1112)      | 1                | 5              | [x]          | 45           | All roles (Defense, Midfield, Forwards & Keeper)
+[Grade 3/4](#Grade34)          | 7                | 4              | &#9745;          | 25           | Keeper role - pick best keeper
+[Grade 5/6](#Grade56)          | 9                | 4              | &#9745;          | 30           | Roles for Defense, Attack added
+[Grade 7/8](#Grade78)          | 11               | 5              | &#9745;          | 35           | All roles (Defense, Midfield, Forwards & Keeper)
+[Grade 9/10](#Grade910)        | 11               | 5              | &#9745;          | 40           | All roles (Defense, Midfield, Forwards & Keeper)
+[Grade 11/12](#Grade1112)      | 1                | 5              | &#9745;          | 45           | All roles (Defense, Midfield, Forwards & Keeper)
 
 
 ## In detail:
