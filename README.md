@@ -7,69 +7,29 @@ An abridged set of **Laws of in town soccer**
 By the grade - **at a glance**
 
 ### In Fall
-Only the 7/8 grade teams travel
+Age Group                      | Players on field | Ball size      |Goal Keeper   | Time per 1/2 | Notes
+ ----------------------------- | ---------------- | -------------- | ------------ | ------------ | --------:
+[PreK](#PreK)                  | ALL              | 3              | NO           | NA           | Must be 4 years old by September 1st
+[Kindergarten](#Kindergarten)  | ALL              | 3              | NO           | NA           | Must be 5 years old by September 1st
+[Grade 1](#Grade1)             | 3                | 3              | NO           | 20           | No role assignment - rotate posistions
+[Grade 2](#Grade2)             | 4                | 3              | NO           | 20           | No role assignment - rotate posistions
+[Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | No role assignment - rotate posistions
+[Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | No role assignment - rotate posistions
+[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | Travel teams
 
-**[PreK](#PreK)**
- - Must be 4 years old by September 1st
- - Size 3 ball
-
-**[Kindergarten](#Kindergarten)**
- - Must be 5 years old by September 1st
- - Size 3 ball
-
-**[Grade 1](#Grade1)**
- - 3v3
- - No Goal keepers (no role assignment)
- - Size 3 ball
-
- **[Grade 2](#Grade2)**
- - 4v4
- - No Goal keepers (no role assignment)
- - Size 3 ball
-
-**[Grade 3/4](#Grade34)**
- - U10
- - 7v7
- - Size 4 ball
-
-**[Grade 5/6](#Grade56)**
- - U12
- - 9v9
- - Size 4 ball
-
-**[Grade 7/8](#Grade78)**
- - U14
- - 11v11
- - Size 5 ball
 
 ### In Spring
 
 All teams travel
 
-**[Grade 3/4](#Grade34)**
- - U10
- - 7v7
- - Size 4 ball
+Age Group                      | Players on field | Ball size      |Goal Keeper   | Time per 1/2 | Notes
+ ----------------------------- | ---------------- | -------------- | ------------ | ------------ | --------:
+[Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | 
+[Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | 
+[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | 
+[Grade 9/10](#Grade910)        | 11               | 5              | YES          | 40           | 
+[Grade 11/12](#Grade1112)      | 1                | 5              | YES          | 45           | 
 
-**[Grade 5/6](#Grade56)**
- - U12
- - 9v9
- - Size 4 ball
-
-**[Grade 7/8](#Grade78)**
- - U14
- - 11v11
- - Size 5 ball
-
-**[Grade 9/10](#Grade910)**
- - U16
- - 11v11
- - Size 5 ball
-
-**[Grade 11/12](#Grade1112)**
- - U18
- - 11v11
- - Size 5 ball
 
 ## In detail:
 
@@ -114,7 +74,7 @@ Players must be enrolled in 1st Grade.
  Players must be enrolled in 2nd Grade.
  - 4v4
  - Size 3 ball
- - Time of Play: Two 20 Minute Halves with 5 minute halftime
+ - Time of Play: Two 25 Minute Halves with 5 minute halftime
  - No Goal keepers (no role assignment)
  - Expect big double digit score lines (don't keep count)
  - Games should end up with everyone scoring multiple goals
@@ -128,6 +88,7 @@ Players must be enrolled in 1st Grade.
  Teams will practice one day a week at the coach's discretion.
 
 ### **Grade 3/4** <a name="Grade34"></a>
+ Players must be enrolled in 3rd or 4th Grade.
  - U10
  - 7v7
  - Larger field
@@ -139,6 +100,7 @@ Players must be enrolled in 1st Grade.
  - Spring travel - Scores are reported.
 
 ### **Grade 5/6** <a name="Grade56"></a>
+Players must be enrolled in 5th or 6th Grade.
  - U12
  - 9v9
  - Size 4 ball
@@ -148,6 +110,7 @@ Players must be enrolled in 1st Grade.
  - Spring travel - Scores are reported.
 
 ### **Grade 7/8** <a name="Grade78"></a>
+Players must be enrolled in 7th or 8th Grade.
  - U14
  - 11v11
  - Size 5 ball
@@ -156,6 +119,7 @@ Players must be enrolled in 1st Grade.
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
 ### **Grade 9/10** <a name="Grade910"></a>
+Players must be enrolled in 9th or 10th Grade.
  - U16
  - 11v11
  - Size 5 ball
@@ -164,6 +128,7 @@ Players must be enrolled in 1st Grade.
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
 ### **Grade 11/12** <a name="Grade1112"></a>
+Players must be enrolled in 11th or 12th Grade.
  - U18
  - 11v11
  - Size 5 ball
