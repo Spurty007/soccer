@@ -13,9 +13,9 @@ Age Group                      | Players on field | Ball size      |Goal Keeper 
 [Kindergarten](#Kindergarten)  | ALL              | 3              | NO           | NA           | Must be 5 years old by September 1st
 [Grade 1](#Grade1)             | 3                | 3              | NO           | 20           | No role assignment - rotate posistions
 [Grade 2](#Grade2)             | 4                | 3              | NO           | 20           | No role assignment - rotate posistions
-[Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | No role assignment - rotate posistions
-[Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | No role assignment - rotate posistions
-[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | Travel teams
+[Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | Dedicated Keeper role introduced - everyone try it
+[Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | Dedicated roles for defense, attack and keeper
+[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | Dedicated roles for defense, Midfield, Forwards and keeper
 
 
 ### In Spring
@@ -24,11 +24,11 @@ All teams travel
 
 Age Group                      | Players on field | Ball size      |Goal Keeper   | Time per 1/2 | Notes
  ----------------------------- | ---------------- | -------------- | ------------ | ------------ | --------:
-[Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | 
-[Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | 
-[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | 
-[Grade 9/10](#Grade910)        | 11               | 5              | YES          | 40           | 
-[Grade 11/12](#Grade1112)      | 1                | 5              | YES          | 45           | 
+[Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | Dedicated Keeper role introduced - pick best keeper
+[Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | Dedicated roles for defense, attack and keeper
+[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | Dedicated roles for defense, Midfield, Forwards and keeper
+[Grade 9/10](#Grade910)        | 11               | 5              | YES          | 40           | Dedicated roles for defense, Midfield, Forwards and keeper
+[Grade 11/12](#Grade1112)      | 1                | 5              | YES          | 45           | Dedicated roles for defense, Midfield, Forwards and keeper
 
 
 ## In detail:
