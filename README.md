@@ -1,37 +1,47 @@
 # Hanover Youth Soccer
+
 An abridged set of **Laws of in town soccer**
+
 ## Groupings for in Hanover Mass.
+
 By the grade - **at a glance**
+
 ### In Fall 
 Only the 7/8 grade teams travel
 
 **PreK**      
  - Must be 4 years old by September 1st
+ - Size 3 ball
  
 **Kindergarten** 
  - Must be 5 years old by September 1st
-
+ - Size 3 ball
+ 
 **Grade 1**      
  - 3v3 
  - No Goal keepers (no role assignment) 
-
+ - Size 3 ball
+ 
  **Grade 2**      
  - 4v4 
  - No Goal keepers (no role assignment) 
- - 
-
+ - Size 3 ball
+ 
 **Grade 3/4**    
  - U10 
  - 7v7
-
+ - Size 4 ball
+ 
 **Grade 5/6**    
  - U12 
  - 9v9
-
+ - Size 4 ball
+ 
 **Grade 7/8**    
  - U14 
  - 11v11
-
+ - Size 5 ball
+ 
 ### In Spring
 
 All teams travel
@@ -39,25 +49,32 @@ All teams travel
 **Grade 3/4**    
  - U10 
  - 7v7
-
+ - Size 4 ball
+ 
 **Grade 5/6**    
  - U12 
  - 9v9
-
+ - Size 4 ball
+ 
 **Grade 7/8**    
  - U14 
  - 11v11
-
+ - Size 5 ball
+ 
 **Grade 9/10**
  - U16 
  - 11v11
-
+ - Size 5 ball
+ 
 **Grade 11/12** 
  - U18 
  - 11v11
+ - Size 5 ball
    
 ## In detail:   
-If you're unsure what the objectives of an age group are, they are listed below.
+
+More details about each age group.
+
 ### **Pre K**      
  - Must be 4 years old by September 1st
  - Focus is on the individual
