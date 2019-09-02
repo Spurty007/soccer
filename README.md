@@ -15,7 +15,7 @@ Age Group                      | Players on field | Ball size      |Goal Keeper 
 [Grade 2](#Grade2)             | 4                | 3              | NO           | 20           | No role assignment - rotate posistions
 [Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | Keeper role added - give everyone a chance
 [Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | Roles for Defense, Attack added
-[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | All roles (Defense, Midfield, Forwards & Keeper)
+[Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | All roles + travel
 
 
 ### In Spring
