@@ -7,28 +7,28 @@ An abridged set of **Laws of in town soccer**
 By the grade - **at a glance**
 
 ### In Fall
-Age Group                      | Players on field | Ball       |Goal Keeper   | Time per 1/2 | Notes
- ----------------------------: | :--------------: | :------------: | :----------: | :----------: | :-------
-[PreK](#PreK)                  | ALL              | #3              | &#9744;      | NA           | Must be 4 years old by September 1st
-[Kindergarten](#Kindergarten)  | ALL              | #3              | &#9744;      | NA           | Must be 5 years old by September 1st
-[Grade 1](#Grade1)             | 3                | #3              | &#9744;      | 10min (1/4s) | No role assignment - rotate posistions
-[Grade 2](#Grade2)             | 4                | #3              | &#9744;      | 10min (1/4s) | No role assignment - rotate posistions
-[Grade 3/4](#Grade34)          | 7                | #4              | &#9745;      | 25mins       | Keeper role added 
-[Grade 5/6](#Grade56)          | 9                | #4              | &#9745;      | 30mins       | Large field and goals
-[Grade 7/8](#Grade78)          | 11               | #5              | &#9745;      | 35mins       | Full size field and goals + Travel
+Age Group                      | Players on field | Ball |Goal Keeper   | Time per 1/2 | Notes
+ ----------------------------: | :--------------: | :--: | :----------: | :----------: | :-------
+[PreK](#PreK)                  | ALL              | #3   | &#9744;      | NA           | Must be 4 years old by September 1st
+[Kindergarten](#Kindergarten)  | ALL              | #3   | &#9744;      | NA           | Must be 5 years old by September 1st
+[Grade 1](#Grade1)             | 3                | #3   | &#9744;      | 10min (1/4s) | No role assignment - rotate posistions
+[Grade 2](#Grade2)             | 4                | #3   | &#9744;      | 10min (1/4s) | No role assignment - rotate posistions
+[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added 
+[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals
+[Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | 35mins       | Full size field and goals + Travel
 
 
 ### In Spring
 
 All teams travel
 
-Age Group                      | Players on field | Ball       |Goal Keeper   | Time per 1/2 | Notes
- ----------------------------: | :--------------: | :------------: | :----------: | :----------: | :-------
-[Grade 3/4](#Grade34)          | 7                | #4              | &#9745;      | 25mins       | Keeper role added
-[Grade 5/6](#Grade56)          | 9                | #4              | &#9745;      | 30mins       | Large field and goals
-[Grade 7/8](#Grade78)          | 11               | #5              | &#9745;      | 35mins       | Full size field and goals + Travel
-[Grade 9/10](#Grade910)        | 11               | #5              | &#9745;      | 40mins       | Full size field and goals + Travel
-[Grade 11/12](#Grade1112)      | 1                | #5              | &#9745;      | 45mins       | Full size field and goals + Travel
+Age Group                      | Players on field | Ball |Goal Keeper   | Time per 1/2 | Notes
+ ----------------------------: | :--------------: | :--: | :----------: | :----------: | :-------
+[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added
+[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals
+[Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | 35mins       | Full size field and goals + Travel
+[Grade 9/10](#Grade910)        | 10 + Keeper      | #5   | &#9745;      | 40mins       | Full size field and goals + Travel
+[Grade 11/12](#Grade1112)      | 10 + Keeper      | #5   | &#9745;      | 45mins       | Full size field and goals + Travel
 
 
 ## In detail:
