@@ -7,15 +7,19 @@ Only the 7/8 grade teams travel
 
 **PreK**      
  - Must be 4 years old by September 1st
+ 
 **Kindergarten** 
  - Must be 5 years old by September 1st
+
 **Grade 1**      
  - 3v3 
  - No Goal keepers (no role assignment) 
+
  **Grade 2**      
  - 4v4 
  - No Goal keepers (no role assignment) 
  - 
+
 **Grade 3/4**    
  - U10 
  - 7v7
