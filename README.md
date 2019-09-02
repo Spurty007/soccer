@@ -8,7 +8,7 @@ By the grade - **at a glance**
 
 ### In Fall
 Age Group                      | Players on field | Ball size      |Goal Keeper   | Time per 1/2 | Notes
- ----------------------------- | ---------------- | -------------- | ------------ | ------------ | --------:
+ ----------------------------: | :--------------: | :------------: | :----------: | :----------: | :-------
 [PreK](#PreK)                  | ALL              | 3              | NO           | NA           | Must be 4 years old by September 1st
 [Kindergarten](#Kindergarten)  | ALL              | 3              | NO           | NA           | Must be 5 years old by September 1st
 [Grade 1](#Grade1)             | 3                | 3              | NO           | 20           | No role assignment - rotate posistions
@@ -23,7 +23,7 @@ Age Group                      | Players on field | Ball size      |Goal Keeper 
 All teams travel
 
 Age Group                      | Players on field | Ball size      |Goal Keeper   | Time per 1/2 | Notes
- ----------------------------- | ---------------- | -------------- | ------------ | ------------ | --------:
+ ----------------------------: | :--------------: | :------------: | :----------: | :----------: | :-------
 [Grade 3/4](#Grade34)          | 7                | 4              | YES          | 25           | Keeper role - pick best keeper
 [Grade 5/6](#Grade56)          | 9                | 4              | YES          | 30           | Roles for Defense, Attack added
 [Grade 7/8](#Grade78)          | 11               | 5              | YES          | 35           | All roles (Defense, Midfield, Forwards & Keeper)
@@ -140,7 +140,7 @@ Players must be enrolled in 11th or 12th Grade.
 ##  Goal and Field sizes
 
 Age Group	| Maximum Goal Size (in feet) |	Field Width Min. - Max. (in yards) | Field Length Min. - Max. (in yards)
------------:|:---------------------------:|:----------------------------------:|:----------------------------------:
+:----------:|:---------------------------:|:----------------------------------:|:----------------------------------:
 6U & 8U	    | 4’ x 6’	                  | 15 - 25	                           |  25 - 35
 10U	        | 6.5' x 18.5'	              | 35 - 45                            |  55 - 65
 12U	        | 7' x 21'	                  | 45 - 55	                           |  70 - 80
