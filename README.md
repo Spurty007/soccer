@@ -13,31 +13,31 @@ Only the 7/8 grade teams travel
  - Must be 4 years old by September 1st
  - Size 3 ball
 
-**Kindergarten**
+**[Kindergarten](#Kindergarten)**
  - Must be 5 years old by September 1st
  - Size 3 ball
 
-**Grade 1**
+**[Grade 1](#Grade1)**
  - 3v3
  - No Goal keepers (no role assignment)
  - Size 3 ball
 
- **Grade 2**
+ **[Grade 2](#Grade2)**
  - 4v4
  - No Goal keepers (no role assignment)
  - Size 3 ball
 
-**Grade 3/4**
+**[Grade 3/4](#Grade34)**
  - U10
  - 7v7
  - Size 4 ball
 
-**Grade 5/6**
+**[Grade 5/6](#Grade56)**
  - U12
  - 9v9
  - Size 4 ball
 
-**Grade 7/8**
+**[Grade 7/8](#Grade78)**
  - U14
  - 11v11
  - Size 5 ball
@@ -46,27 +46,27 @@ Only the 7/8 grade teams travel
 
 All teams travel
 
-**Grade 3/4**
+**[Grade 3/4](#Grade34)**
  - U10
  - 7v7
  - Size 4 ball
 
-**Grade 5/6**
+**[Grade 5/6](#Grade56)**
  - U12
  - 9v9
  - Size 4 ball
 
-**Grade 7/8**
+**[Grade 7/8](#Grade78)**
  - U14
  - 11v11
  - Size 5 ball
 
-**Grade 9/10**
+**[Grade 9/10](#Grade910)**
  - U16
  - 11v11
  - Size 5 ball
 
-**Grade 11/12**
+**[Grade 11/12](#Grade1112)**
  - U18
  - 11v11
  - Size 5 ball
