@@ -59,7 +59,7 @@ More details about each age group.
 Players must be enrolled in 1st Grade.
  - 3v3
  - Size 3 ball
- - Time of Play: Four 10 Minute quarters with 2 minute breaks
+ - Time of Play: &#9758; Four 10 Minute quarters with 2 minute breaks
  - No Goal keepers (no role assignment)
  - Expect big double digit score lines (don't keep count)
  - Weekly training with a coach encouraged
@@ -75,7 +75,7 @@ Players must be enrolled in 1st Grade.
  Players must be enrolled in 2nd Grade.
  - 4v4
  - Size 3 ball
- - Time of Play: Four 10 Minute quarters with 2 minute breaks
+ - Time of Play: &#9758; Four 10 Minute quarters with 2 minute breaks
  - No Goal keepers (no role assignment)
  - Expect big double digit score lines (don't keep count)
  - Games should end up with everyone scoring multiple goals
@@ -94,7 +94,7 @@ Players must be enrolled in 1st Grade.
  - 7v7
  - Larger field
  - Size 4 ball
- - Time of Play: Two 25 Minute Halves with 5 minute halftime
+ - Time of Play: &#9758; Two 25 Minute Halves with 5 minute halftime
  - Weekly training with a coach encouraged
  - Keeper role introduced
  - Fall in town - Scores are not reported
@@ -105,7 +105,7 @@ Players must be enrolled in 5th or 6th Grade.
  - U12
  - 9v9
  - Size 4 ball
- - Time of Play: Two 30 Minute Halves with 5 minute halftime
+ - Time of Play: &#9758; Two 30 Minute Halves with 5 minute halftime
  - Other roles introduced (Keeper, Defender, Midfield, Forwards)
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
@@ -115,7 +115,7 @@ Players must be enrolled in 7th or 8th Grade.
  - U14
  - 11v11
  - Size 5 ball
- - Time of Play: Two 35 Minute Halves with 5 minute halftime
+ - Time of Play: &#9758; Two 35 Minute Halves with 5 minute halftime
  - Full sized fields used
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
@@ -124,7 +124,7 @@ Players must be enrolled in 9th or 10th Grade.
  - U16
  - 11v11
  - Size 5 ball
- - Time of Play: Two 40 Minute Halves with 5 minute halftime
+ - Time of Play: &#9758; Two 40 Minute Halves with 5 minute halftime
  - Full sized fields used
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
@@ -133,7 +133,7 @@ Players must be enrolled in 11th or 12th Grade.
  - U18
  - 11v11
  - Size 5 ball
- - Time of Play: Two 45 Minute Halves with 5 minute halftime
+ - Time of Play: &#9758; Two 45 Minute Halves with 5 minute halftime
  - Full sized fields used
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
