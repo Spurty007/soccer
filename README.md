@@ -117,7 +117,7 @@ Players must be enrolled in 7th or 8th Grade.
  - Size 5 ball
  - Time of Play: &#9758; Two 35 Minute Halves with 5 minute halftime
  - Full sized fields used
- - Fall in town - Scores are not reported
+ - Fall travel - Scores are reported
  - Spring travel - Scores are reported.
 ### **Grade 9/10** <a name="Grade910"></a>
 Players must be enrolled in 9th or 10th Grade.
