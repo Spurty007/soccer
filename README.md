@@ -41,7 +41,7 @@ More details about each age group.
  - Group skills
   Single gender developmental program.
   **Saturday mornings**
-	  -  Program will run for 30 minutes from 8:00-8:30.
+	  -  &#9758; Program will run for 30 minutes from 8:00-8:30.
   Program is meant to be a fun and relaxed introduction for our youngest players.
 
 ### **Kindergarten** <a name="Kindergarten"></a>
@@ -49,7 +49,7 @@ More details about each age group.
  - Focus is on the individual
  - Group skills
   Single gender in-town developmental program.
- Each week participants will receive approximately 20 minutes of group based skills followed by a 20 minute scrimmage.
+  &#9758; Each week participants will receive *approximately 20 minutes of group based skills* followed by a *20 minute scrimmage*.
   There are no practices for this age group.
   **Saturday mornings.**
    - Boys sessions - 8:45-9:30
