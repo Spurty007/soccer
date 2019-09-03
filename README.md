@@ -11,7 +11,7 @@ Age Group                      | Players on field | Ball |Goal Keeper   | Time p
  ----------------------------: | :--------------: | :--: | :----------: | :----------: | :-------
 [PreK](#PreK)                  | ALL              | #3   | &#128503;    | NA           | Must be 4 years old by September 1st
 [Kindergarten](#Kindergarten)  | ALL              | #3   | &#128503;    | NA           | Must be 5 years old by September 1st
-[Grade 1](#Grade1)             | 3                | #3   | &#128503;    | 10min (1/4s) | No role assignment - rotate posistions
+[Grade 1](#Grade1)             | 4                | #3   | &#128503;    | 10min (1/4s) | No role assignment - rotate posistions
 [Grade 2](#Grade2)             | 4                | #3   | &#128503;    | 10min (1/4s) | No role assignment - rotate posistions
 [Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added 
 [Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals
@@ -57,7 +57,7 @@ More details about each age group.
  
  **Saturday mornings.**
  
- - &#9758; Each week participants will receive *approximately 20 minutes of group based skills* followed by a *20 minute scrimmage*.
+ - &#9758; Each week participants will receive **approximately 20 minutes of group based skills** followed by a **20 minute scrimmage**.
  - Boys sessions - 8:45-9:30
  - Girls sessions - 9:45-10:30
 
@@ -70,12 +70,9 @@ Players must be enrolled in 1st Grade.
  - Expect big double digit score lines (don't keep count)
  - Weekly training with a coach encouraged
  - Scores are not recorded
-
- Single gender.
-
- Players are organized into a single grade division for recreational intramural play during the fall season.
-
- Teams will practice one day a week at the coach's discretion.
+ - Single gender.
+ - Players are organized into a single grade division for recreational intramural play during the fall season.
+ - Teams will practice one day a week at the coach's discretion.
 
 ###  **Grade 2** <a name="Grade2"></a>
  Players must be enrolled in 2nd Grade.
@@ -87,12 +84,9 @@ Players must be enrolled in 1st Grade.
  - Games should end up with everyone scoring multiple goals
  - Weekly training with a coach recommended
  - Scores are not recorded
-
- Single gender.
-
- Players are organized into a single grade division for recreational intramural play during the fall season.
-
- Teams will practice one day a week at the coach's discretion.
+ - Single gender.
+ - Players are organized into a single grade division for recreational intramural play during the fall season.
+ - Teams will practice one day a week at the coach's discretion.
 
 ### **Grade 3/4** <a name="Grade34"></a>
  Players must be enrolled in 3rd or 4th Grade.
