@@ -142,7 +142,7 @@ Players must be enrolled in 11th or 12th Grade.
 
 https://www.usyouthsoccer.org/referees/rules-of-the-game/ is source of this info
 
-Age Group	| Maximum Goal Size (in feet) |	Field Width Min. - Max. (in yards) | Field Length Min. - Max. (in yards)
+Age Group	| Maximum Goal Size (in feet) |	Field Width <br>Min. - Max. (in yards) | Field Length <br>Min. - Max. (in yards)
 :----------:|:---------------------------:|:----------------------------------:|:----------------------------------:
 6U & 8U	    | 4’ x 6’	                  | 15 - 25	                           |  25 - 35
 10U	        | 6.5' x 18.5'	              | 35 - 45                            |  55 - 65
