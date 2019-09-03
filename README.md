@@ -39,21 +39,30 @@ More details about each age group.
  - Must be 4 years old by September 1st
  - Focus is on the individual
  - Group skills
-  Single gender developmental program.
-  **Saturday mornings**
-	  -  &#9758; Program will run for 30 minutes from 8:00-8:30.
-  Program is meant to be a fun and relaxed introduction for our youngest players.
+ Single gender developmental program.
+
+ There are no practices for this age group.
+
+ **Saturday mornings**
+
+ -  &#9758; Program will run for 30 minutes from 8:00-8:30.
+ Program is meant to be a fun and relaxed introduction for our youngest players.
 
 ### **Kindergarten** <a name="Kindergarten"></a>
  - Must be 5 years old by September 1st
  - Focus is on the individual
  - Group skills
-  Single gender in-town developmental program.
-  &#9758; Each week participants will receive *approximately 20 minutes of group based skills* followed by a *20 minute scrimmage*.
-  There are no practices for this age group.
-  **Saturday mornings.**
-   - Boys sessions - 8:45-9:30
-   - Girls sessions - 9:45-10:30
+ 
+ Single gender in-town developmental program.
+ 
+ &#9758; Each week participants will receive *approximately 20 minutes of group based skills* followed by a *20 minute scrimmage*.
+
+ There are no practices for this age group.
+ 
+ **Saturday mornings.**
+ 
+ - Boys sessions - 8:45-9:30
+ - Girls sessions - 9:45-10:30
 
 ### **Grade 1** <a name="Grade1"></a>
 Players must be enrolled in 1st Grade.
