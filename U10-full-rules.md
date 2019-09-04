@@ -9,13 +9,19 @@ yards. The length in all cases shall exceed the width. Fields will vary.
 
 ### B. Markings:
 
-   1. Distinctive lines not more than 5 inches wide.
+   1. Distinctive lines not more than 5" wide.
    2. A halfway line shall be marked across the field.
    3. A center circle with a radius of 8 yards.
    4. Four corner arcs with a 1-yard radius.
    5. Goal area - 6 yards from each goal post and 6 yards into the field of play joined by a line drawn parallel with the goal-line.
    6. Penalty area - 14 yards from each goal post and 14 yards into the field of play joined by a line drawn parallel with the goal-line.
-   7.  Build-Out Line - Midway between the edge of the penalty area and the midfield line.   When the goalie has the ball in their hands during play from the opponent, the opposing team must move behind the build out line until the ball is put into play.  Once the opposing team is behind the build out line, the goalie can resume distribution in accordance with these game rules (see Law XII).  Ideally, the goalkeeper will wait until the opposing team has retreated to put the ball into play, but has the option to do so sooner.  If the goalie does not wait, they accept the positioning of the opponents and the consequences of how play develops.   After the ball is put into play by the goalkeeper, the opposing team can cross the build out line and play resumes as normal.  The opposing team must also move behind the build out line during a goal kick until the ball is in play.  Limitations on the goal kick as specified in these game rules (see Law XVI) apply.
+   7. Build-Out Line - Midway between the edge of the penalty area and the midfield line.   
+      * When the goalie has the ball in their hands during play from the opponent, the opposing team must move behind the build out line until the ball is put into play.  
+      * Once the opposing team is behind the build out line, the goalie can resume distribution in accordance with these game rules (see Law XII).  
+      * Ideally, the goalkeeper will wait until the opposing team has retreated to put the ball into play, but has the option to do so sooner.  If the goalie does not wait, they accept the positioning of the opponents and the consequences of how play develops.   
+      * After the ball is put into play by the goalkeeper, the opposing team can cross the build out line and play resumes as normal.  
+      * The opposing team must also move behind the build out line during a goal kick until the ball is in play.  
+      * Limitations on the goal kick as specified in these game rules (see Law XVI) apply.
 
 ### C. GOALS
 Size will vary in width by up to 9'.
