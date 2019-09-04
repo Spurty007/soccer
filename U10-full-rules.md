@@ -19,7 +19,7 @@
          * The opposing team must also move behind the build out line during a goal kick until the ball is in play.
          * Limitations on the goal kick as specified in these game rules (see Law XVI) apply.
    * C. GOALS
-      Size will vary by town - U10 and U12 may share goal posts
+      Size will vary by town - U10 may share goal posts with U12 (the larger size)
       * Minimum size of 6' high x 18' wide
       * Maximum size of 7' high x 21' wide
 
