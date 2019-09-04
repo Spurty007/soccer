@@ -11,9 +11,9 @@ Age Group                      | Players on field | Ball |Goal Keeper   | Time p
  ----------------------------: | :--------------: | :--: | :----------: | :----------: | :-------
 [PreK](#PreK)                  | ALL              | #3   | &#128503;    | NA           | Must be 4 years old by September 1st
 [Kindergarten](#Kindergarten)  | ALL              | #3   | &#128503;    | NA           | Must be 5 years old by September 1st
-[Grade 1](#Grade1)             | 4                | #3   | &#128503;    | 10min (1/4s) | No role assignment - rotate posistions
-[Grade 2](#Grade2)             | 4                | #3   | &#128503;    | 10min (1/4s) | No role assignment - rotate posistions
-[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added 
+[Grade 1](#Grade1)             | 4                | #3   | &#128503;    | 10min (1/4s) | No role assignment - rotate positions
+[Grade 2](#Grade2)             | 4                | #3   | &#128503;    | 10min (1/4s) | No role assignment - rotate positions
+[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added
 [Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals
 [Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | 35mins       | Full size field and goals + Travel
 
@@ -54,9 +54,9 @@ More details about each age group.
  - Group skills
  - Single gender in-town developmental program.
  - There are no practices for this age group.
- 
+
  **Saturday mornings.**
- 
+
  - &#9758; Each week participants will receive **approximately 20 minutes of group based skills** followed by a **20 minute scrimmage**.
  - Boys sessions - 8:45-9:30
  - Girls sessions - 9:45-10:30
@@ -99,6 +99,7 @@ Players must be enrolled in 1st Grade.
  - Keeper role introduced
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
+ - [FULL RULES FOR 3/4 - U10](U10-full-rules.md)
 
 ### **Grade 5/6** <a name="Grade56"></a>
 Players must be enrolled in 5th or 6th Grade.
@@ -109,6 +110,7 @@ Players must be enrolled in 5th or 6th Grade.
  - Other roles introduced (Keeper, Defender, Midfield, Forwards)
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
+ - [FULL RULES FOR 5/6 - U12](U12-full-rules.md)
 
 ### **Grade 7/8** <a name="Grade78"></a>
 Players must be enrolled in 7th or 8th Grade.
@@ -137,7 +139,7 @@ Players must be enrolled in 11th or 12th Grade.
  - Full sized fields used
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
- 
+
 ##  Goal and Field sizes
 
 https://www.usyouthsoccer.org/referees/rules-of-the-game/ is source of this info
