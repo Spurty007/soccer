@@ -12,7 +12,7 @@
       4. Four corner arcs with a 1-yard radius.
       5. Goal area - 6 yards from each goal post and 6 yards into the field of play joined by a line drawn parallel with the goal-line.
       6. Penalty area - 14 yards from each goal post and 14 yards into the field of play joined by a line drawn parallel with the goal-line
-      7. Penalty marc is ten (10) yards from the center of the goal line.
+      7. Penalty mark is ten (10) yards from the center of the goal line.
       8. Penalty arc with a radius of eight (8) yards.
    * C. GOALS: 6 feet high by 18 feet wide.
 
