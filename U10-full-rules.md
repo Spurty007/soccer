@@ -11,16 +11,17 @@
       4. Four corner arcs with a 1-yard radius.
       5. Goal area - 6 yards from each goal post and 6 yards into the field of play joined by a line drawn parallel with the goal-line.
       6. Penalty area - 14 yards from each goal post and 14 yards into the field of play joined by a line drawn parallel with the goal-line.
-      7. Build-Out Line - Midway between the edge of the penalty area and the midfield line.   
-         * When the goalie has the ball in their hands during play from the opponent, the opposing team must move behind the build out line until the ball is put into play.  
-         * Once the opposing team is behind the build out line, the goalie can resume distribution in accordance with these game rules (see Law XII).  
-         * Ideally, the goalkeeper will wait until the opposing team has retreated to put the ball into play, but has the option to do so sooner.  If the goalie does not wait, they accept the positioning of the opponents and the consequences of how play develops.   
-         * After the ball is put into play by the goalkeeper, the opposing team can cross the build out line and play resumes as normal.  
-         * The opposing team must also move behind the build out line during a goal kick until the ball is in play.  
+      7. Build-Out Line - Midway between the edge of the penalty area and the midfield line.
+         * When the goalie has the ball in their hands during play from the opponent, the opposing team must move behind the build out line until the ball is put into play.
+         * Once the opposing team is behind the build out line, the goalie can resume distribution in accordance with these game rules (see Law XII).
+         * Ideally, the goalkeeper will wait until the opposing team has retreated to put the ball into play, but has the option to do so sooner.  If the goalie does not wait, they accept the positioning of the opponents and the consequences of how play develops.
+         * After the ball is put into play by the goalkeeper, the opposing team can cross the build out line and play resumes as normal.
+         * The opposing team must also move behind the build out line during a goal kick until the ball is in play.
          * Limitations on the goal kick as specified in these game rules (see Law XVI) apply.
    * C. GOALS
-      Size will vary by town
-      * Maximum size of 6.5' high x 18.5' wide  
+      Size will vary by town - U10 and U12 may share goal posts
+      * Minimum size of 6' high x 18' wide
+      * Maximum size of 7' high x 21' wide
 
 ## LAW II: THE BALL SIZE
 FOUR (4)
@@ -73,7 +74,7 @@ An indirect free kick shall be awarded to the opposing team when a goalkeeper an
 ## LAW XIII: FREE KICKS:
 Conform to FIFA with the following exception: Opponents must be 8 yards away before kick is allowed.
 
-All players in U10 age groups shall not engage in heading in either games or practices.   
+All players in U10 age groups shall not engage in heading in either games or practices.
 
 An indirect kick is awarded to the opposing team if a player, in the opinion of the referee, deliberately heads or attempts to head the ball at the point of the infraction.
 

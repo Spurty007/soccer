@@ -14,7 +14,11 @@
       6. Penalty area - 14 yards from each goal post and 14 yards into the field of play joined by a line drawn parallel with the goal-line
       7. Penalty mark is ten (10) yards from the center of the goal line.
       8. Penalty arc with a radius of eight (8) yards.
-   * C. GOALS: 6 feet high by 18 feet wide.
+   * C. GOALS
+      Size will vary by town - U10 and U12 may share goal posts
+      * Minimum size of 6' high x 18' wide
+      * Maximum size of 7' high x 21' wide
+
 
 ## LAW II: THE BALL:
 SIZE FOUR (4)
@@ -58,7 +62,7 @@ Conform to FIFA.
 Conform to FIFA.
 
 ## LAW XII: FOULS AND MISCONDUCT:
-All players in U12 age groups shall not engage in heading in either games or practices.   
+All players in U12 age groups shall not engage in heading in either games or practices.
 
 An indirect kick is awarded to the opposing team if a player, in the opinion of the referee, deliberately heads or attempts to head the ball at the point of the infraction.
 
@@ -76,7 +80,7 @@ Conform to FIFA with the exceptions that the penalty mark is ten (10) yards from
 Conform to FIFA.
 
 ## LAW XVI: GOAL KICK:
-Conform to FIFA with the exception that the goal kick cannot go directly into the opponent’s penalty area.  
+Conform to FIFA with the exception that the goal kick cannot go directly into the opponent’s penalty area.
 
 The penalty is an indirect free kick awarded to the opposing team at the point where the ball crossed the penalty area.
 
