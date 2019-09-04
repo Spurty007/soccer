@@ -99,7 +99,7 @@ Players must be enrolled in 1st Grade.
  - Keeper role introduced
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
- - [FULL RULES FOR 3/4](U10-full-rules.md)
+ - [FULL RULES FOR 3/4 - U10](U10-full-rules.md)
 
 ### **Grade 5/6** <a name="Grade56"></a>
 Players must be enrolled in 5th or 6th Grade.
@@ -110,6 +110,7 @@ Players must be enrolled in 5th or 6th Grade.
  - Other roles introduced (Keeper, Defender, Midfield, Forwards)
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
+ - [FULL RULES FOR 5/6 - U12](U12-full-rules.md)
 
 ### **Grade 7/8** <a name="Grade78"></a>
 Players must be enrolled in 7th or 8th Grade.
