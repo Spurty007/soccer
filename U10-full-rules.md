@@ -19,9 +19,8 @@
          * The opposing team must also move behind the build out line during a goal kick until the ball is in play.  
          * Limitations on the goal kick as specified in these game rules (see Law XVI) apply.
    * C. GOALS
-      Size will vary in width by up to 9'.
-      * Minimum size of 7' high x 12' wide.  
-      * Maximum size of 7' high x 21' wide.   
+      Size will vary by town
+      * Maximum size of 6.5' high x 18.5' wide  
 
 ## LAW II: THE BALL SIZE
 FOUR (4)
