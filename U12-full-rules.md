@@ -15,8 +15,6 @@
       7. Penalty mark is ten (10) yards from the center of the goal line.
       8. Penalty arc with a radius of eight (8) yards.
    * C. GOALS
-      Size will vary by town - U10 and U12 may share goal posts
-      * Minimum size of 6' high x 18' wide
       * Maximum size of 7' high x 21' wide
 
 
