@@ -48,5 +48,5 @@ The following formats are suggested by FIFA:
 ![The 7 v 7 fields](field-7v7.jpg)
 
 **11 to 12 years old - 9 v 9 with goalkeeper**
-![The 9 v 9 fields](field-7v7.jpg)
+![The 9 v 9 fields](field-9v9.jpg)
 
