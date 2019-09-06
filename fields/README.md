@@ -38,15 +38,15 @@ The following formats are suggested by FIFA:
    * 9 v 9								- Full size U10 fields -
 
 ### Small size games
-6 to 8 years old - 4 v 4 is without goalkeeper
+**6 to 8 years old - 4 v 4 is without goalkeeper**
 ![The 4 v 4 fields](field-4v4.jpg)
 
-9 to 10 years old - 5 v 5 with goalkeeper
+**9 to 10 years old - 5 v 5 with goalkeeper**
 ![The 5 v 5 fields](field-5v5.jpg)
 
-9 to 10 years old - 7 v 7 with goalkeeper
+**9 to 10 years old - 7 v 7 with goalkeeper**
 ![The 7 v 7 fields](field-7v7.jpg)
 
-11 to 12 years old - 9 v 9 with goalkeeper
+**11 to 12 years old - 9 v 9 with goalkeeper**
 ![The 9 v 9 fields](field-7v7.jpg)
 
