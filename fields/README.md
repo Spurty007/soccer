@@ -27,7 +27,7 @@ The following formats are suggested by FIFA:
 
 ### U8 age group
    * 4 v 4 without goalkeeper           - Used in Hanover -
-   * 4 v 4 with goalkeeper (3+1 v 3+1)  - Old format. Didn't get results -
+   * 4 v 4 with goalkeeper (3+1 v 3+1)  - One kid doesn't move all game -
    * 5 v 5                              - The extra space required means this not feasible -
 
 ### U10 age group
