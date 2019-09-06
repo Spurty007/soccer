@@ -30,6 +30,9 @@ Age Group                      | Players on field | Ball |Goal Keeper   | Time p
 [Grade 9/10](#Grade910)        | 10 + Keeper      | #5   | &#9745;      | 40mins       | Full size field and goals + Travel
 [Grade 11/12](#Grade1112)      | 10 + Keeper      | #5   | &#9745;      | 45mins       | Full size field and goals + Travel
 
+### Field info
+Follow link for [Goal and Field sizes](./fields/README.md)
+
 
 ## In detail:
 
@@ -139,5 +142,3 @@ Players must be enrolled in 11th or 12th Grade.
  - Full sized fields used
  - Fall in town - Scores are not reported
  - Spring travel - Scores are reported.
-
-Follow link for [Goal and Field sizes](./fields/README.md)
