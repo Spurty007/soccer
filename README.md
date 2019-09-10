@@ -66,9 +66,9 @@ More details about each age group.
 
 ### **Grade 1** <a name="Grade1"></a>
 Players must be enrolled in 1st Grade.
- - 3v3
+ - 4v4
  - Size 3 ball
- - Time of Play: Four 10 Minute quarters with 2 minute breaks
+ - Time of Play: Four 10 Minute quarters with 2 minute breaks or two 20 Minute halves with 5 minute break.
  - No Goal keepers (no role assignment)
  - Expect big double digit score lines (don't keep count)
  - Weekly training with a coach encouraged
@@ -76,12 +76,13 @@ Players must be enrolled in 1st Grade.
  - Single gender.
  - Players are organized into a single grade division for recreational intramural play during the fall season.
  - Teams will practice one day a week at the coach's discretion.
+ - [FULL RULES FOR 1/2 - U08](./rules/U08-full-rules.md)
 
 ###  **Grade 2** <a name="Grade2"></a>
  Players must be enrolled in 2nd Grade.
  - 4v4
  - Size 3 ball
- - Time of Play: Four 10 Minute quarters with 2 minute breaks
+ - Time of Play: Four 10 Minute quarters with 2 minute breaks or two 20 Minute halves with 5 minute break.
  - No Goal keepers (no role assignment)
  - Expect big double digit score lines (don't keep count)
  - Games should end up with everyone scoring multiple goals
@@ -90,7 +91,8 @@ Players must be enrolled in 1st Grade.
  - Single gender.
  - Players are organized into a single grade division for recreational intramural play during the fall season.
  - Teams will practice one day a week at the coach's discretion.
-
+ - [FULL RULES FOR 1/2 - U08](./rules/U08-full-rules.md)
+ 
 ### **Grade 3/4** <a name="Grade34"></a>
  Players must be enrolled in 3rd or 4th Grade.
  - U10
