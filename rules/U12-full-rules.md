@@ -32,7 +32,7 @@ SIZE FOUR (4)
       3. After a goal by either team.
       4. After an injury by either team, when the Referee stops the play.
       5. At half time.
-   * C. Maximum roster size of 16.
+   * C. Maximum roster size of 15. (Nov 2019 Bylaws changed this)
    * D. The minimum number of players to begin a match is six (6).
 
 ## LAW IV: PLAYERS EQUIPMENT:
