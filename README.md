@@ -7,28 +7,28 @@ An abridged set of **Laws of in town soccer**
 By the grade - **at a glance**
 
 ### In Fall
-Age Group                      | Players on field | Ball |Goal Keeper   | Time per 1/2 | Notes
- ----------------------------: | :--------------: | :--: | :----------: | :----------: | :-------
-[PreK](#PreK)                  | ALL              | #3   | &#128503;    | NA           | Must be 4 years old by September 1st
-[Kindergarten](#Kindergarten)  | ALL              | #3   | &#128503;    | NA           | Must be 5 years old by September 1st
-[Grade 1](#Grade1)             | 4                | #3   | &#128503;    | 10min (1/4s)<BR>or 20 mins | No role assignment - rotate positions
-[Grade 2](#Grade2)             | 4                | #3   | &#128503;    | 10min (1/4s)<BR>or 20 mins | No role assignment - rotate positions
-[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added
-[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals
-[Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | 35mins       | Full size field and goals + Travel
+Age Group                      | Players on field | Ball |Goal Keeper   | Off-side     | Time per 1/2 | Notes
+ ----------------------------: | :--------------: | :--: | :----------: | :----------: | :----------: | :-------
+[PreK](#PreK)                  | ALL              | #3   | &#128503;    | &#128503;    | NA           | Must be 4 years old by September 1st
+[Kindergarten](#Kindergarten)  | ALL              | #3   | &#128503;    | &#128503;    | NA           | Must be 5 years old by September 1st
+[Grade 1](#Grade1)             | 4                | #3   | &#128503;    | &#128503;    | 10min (1/4s)<BR>or 20mins | No role assignment - rotate positions
+[Grade 2](#Grade2)             | 4                | #3   | &#128503;    | &#128503;    | 10min (1/4s)<BR>or 20mins | No role assignment - rotate positions
+[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | &#9745;      | 25mins       | Off-side + Keeper role added
+[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | &#9745;      | 30mins       | Large field and goals
+[Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | &#9745;      | 35mins       | Full size field and goals + Travel
 
 
 ### In Spring
 
 All teams travel
 
-Age Group                      | Players on field | Ball |Goal Keeper   | Time per 1/2 | Notes
- ----------------------------: | :--------------: | :--: | :----------: | :----------: | :-------
-[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | 25mins       | Keeper role added + Travel
-[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | 30mins       | Large field and goals + Travel
-[Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | 35mins       | Full size field and goals + Travel
-[Grade 9/10](#Grade910)        | 10 + Keeper      | #5   | &#9745;      | 40mins       | Full size field and goals + Travel
-[Grade 11/12](#Grade1112)      | 10 + Keeper      | #5   | &#9745;      | 45mins       | Full size field and goals + Travel
+Age Group                      | Players on field | Ball |Goal Keeper   | Off-side     | Time per 1/2 | Notes
+ ----------------------------: | :--------------: | :--: | :----------: | :----------: | :----------: | :-------
+[Grade 3/4](#Grade34)          | 6 + Keeper       | #4   | &#9745;      | &#9745;      | 25mins       | Off-side + Keeper role added + Travel
+[Grade 5/6](#Grade56)          | 8 + Keeper       | #4   | &#9745;      | &#9745;      | 30mins       | Large field and goals + Travel
+[Grade 7/8](#Grade78)          | 10 + Keeper      | #5   | &#9745;      | &#9745;      | 35mins       | Full size field and goals + Travel
+[Grade 9/10](#Grade910)        | 10 + Keeper      | #5   | &#9745;      | &#9745;      | 40mins       | Full size field and goals + Travel
+[Grade 11/12](#Grade1112)      | 10 + Keeper      | #5   | &#9745;      | &#9745;      | 45mins       | Full size field and goals + Travel
 
 ### Field info
 Follow link for [Goal and Field sizes](./fields/README.md)
