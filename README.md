@@ -1,8 +1,8 @@
-# Hanover Youth Soccer
+# Youth Soccer 
 
-An abridged set of **Laws of in town soccer**
+An abridged set of **Laws of in town soccer** - may be out of date as there was no attempt to update for the COVID-19 law changes as they seemed to change from week to week. Use as a guideline only!
 
-## Groupings for in Hanover Mass.
+## Groupings for in in-town.
 
 By the grade - **at a glance**
 
