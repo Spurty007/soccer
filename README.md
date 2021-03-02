@@ -145,13 +145,16 @@ Players must be enrolled in 9th or 10th Grade.
 * 11v11
 * Size 5 ball
 * Time of Play: Two 40 Minute Halves with 5 minute halftime
- - Full sized fields used
- - Spring travel - Scores are reported.
+* Full sized fields used
+* Spring travel - Scores are reported.
+
 ### **Grade 11/12** <a name="Grade1112"></a>
+
 Players must be enrolled in 11th or 12th Grade.
- - U18
- - 11v11
- - Size 5 ball
- - Time of Play: Two 45 Minute Halves with 5 minute halftime
- - Full sized fields used
- - Spring travel - Scores are reported.
+
+* U18
+* 11v11
+* Size 5 ball
+* Time of Play: Two 45 Minute Halves with 5 minute halftime
+* Full sized fields used
+* Spring travel - Scores are reported.
