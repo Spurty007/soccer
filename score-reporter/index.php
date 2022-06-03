@@ -31,21 +31,9 @@
       <option selected="selected" value="---"> Hanover Team </option>
       <option disabled>──────────</option>
       <!-- vv Only bit that changes year to year vv -->
-      <option value="B78_1_McDermod"> Boys 7/8 McDermod  </option>
-      <option value="B78_2_Lewis"> Boys 7/8 Lewis  </option>
-      <option value="B56_1_Egan"> Boys 5/6 Egan  </option>
-      <option value="B56_2_Murray"> Boys 5/6 Murray  </option>
-      <option value="B56_3_Bryant"> Boys 5/6 Bryant  </option>
-      <option value="B56_4_Blomberg"> Boys 5/6 Blomberg  </option>
+      <option value="B78_1_Name-Division"> Boys 7/8 Name </option>
       <option disabled>  ────────── </option>
-      <option value="G78_1_Egan"> Girls 7/8 Egan </option>
-      <option value="G78_2_Clasby"> Girls 7/8 Clasby  </option>
-      <option value="G78_3_Hunt"> Girls 7/8 Hunt  </option>
-      <option value="G56_1_Brown"> Girls 5/6 Brown  </option>
-      <option value="G56_2_DiTullio"> Girls 5/6 DiTullio </option>
-      <option value="G56_3_McCready"> Girls 5/6 McCready(3) </option>
-      <option value="G56_4_McCready"> Girls 5/6 McCready(4) </option>
-      <option value="G56_5_Miraglia"> Girls 5/6 Miragila  </option>
+      <option value="G78_1_Name-Division"> Girls 7/8 Name </option>
       <!-- ^^ Only bit that changes year to year ^^-->
       <option disabled>  ────────── </option>
     </select>
@@ -90,6 +78,7 @@
       <option value="PLYMPTON">  PLYMPTON </option>
       <option value="SACRED_HEART">  SACRED HEART  </option>
       <option value="SCITUATE">  SCITUATE </option>
+      <option value="SIVERLAKE">  SIVER LAKE </option>
     </select>
     <select class="OppositionTeam" id="S2"  name="S2">
         <option value="Not_played"> NOT PLAYED </option>
@@ -170,9 +159,8 @@ Scituate         Blue / Blue
 </body>
 </html>
     <!--
-Copyright 2017-2022 Adrian Lewis
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
--->
-
+    Copyright 2017-2022 Adrian Lewis
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    -->
